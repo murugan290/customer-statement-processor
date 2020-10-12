@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: customer-statement-processor
+
+server:
+  port: 8112
+
+
